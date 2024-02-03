@@ -7,6 +7,6 @@ public class createpackage {
 
     // Method to greet a user
     public String greetUser(String name) {
-        return 'Hello, ' + name + '!WELCOME TO WORLD!';
+        return 'Hello, ' + name + '!WELCOME TO WORLDOF ELECGTIONS!';
     }
 }
