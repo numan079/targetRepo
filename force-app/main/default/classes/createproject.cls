@@ -15,7 +15,4 @@ public class createproject {
     public String greetUser3(String name) {
         return 'Hello, ' + name + '! Welcome to almost new Salesforce Apex!';
     }
-    public String greetUser4(String name) {
-        return 'Hello, ' + name + '! Welcome to almost new Salesforce Apex!';
-    }
 }
