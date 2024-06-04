@@ -1,5 +1,5 @@
 public class createPackageVersion {
-public static Integer myValue = 0;  
+public static Integer myValue = 1;  
    public static String myString = ''; 
    
    public static Integer getCalculatedValue () {
